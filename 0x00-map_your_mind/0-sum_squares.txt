@@ -1,0 +1,9 @@
+Create sum variable, initialize to 0.
+Create y variable, set to 1.
+Break when y reaches 50.
+
+while y is <50:
+      sum = sum + y*y
+      y = y + 1
+print sum
+     
