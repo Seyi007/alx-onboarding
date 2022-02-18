@@ -1,0 +1,15 @@
+This program reads and sorts them in order.
+assign variable a, b, c, to int x, y, z.
+read int x, y, z
+IF a>b then 
+   temp = a
+   a = b
+   b = temp
+ELSE IF b>c then
+    temp = b
+    b = c
+    c = temp
+ELSE IF a>b then
+    temp = a
+    a = b
+    b = temp

@@ -1,0 +1,19 @@
+This program keeps adding user inputs and breaks when a negative integer is writter.
+
+initialize sum variable to 0 
+create n =  INT INPUT('pick a number')
+IF n is a positive number, add to sum
+ELSE BREAK
+
+sum = 0
+
+WHILE TRUE
+    n = int(INPUT(choose number)
+    IF n>0 is TRUE
+        sum = sum + n
+        PRINT sum
+        CONTINUE
+
+     ELSE 
+          PRINT(not a positive number)
+          BREAK
